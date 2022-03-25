@@ -11,7 +11,7 @@ console.log(interestRate);
 /* Prim Value Types
 String Number Boolean undefined null */
  
-let name = 'kelly'; //String Literal
+let names = 'kelly'; //String Literal
 let age = 22; // Number Literal
 let isApproved = true; // Boolean Literal
 let middleName = undefined;
