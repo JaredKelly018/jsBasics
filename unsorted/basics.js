@@ -49,9 +49,9 @@ function greet(name, lastName) {
 greet('Estrea', 'Krin');
 greet('rin'); // this will return ' Hello Rin undefined' due to last name being missing
 
-//function calc
+//function calcs
 function square(number) {
    return number*number;  
 }
 
-console.log(square(12));
+console.log(square(12));  
