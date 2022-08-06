@@ -57,3 +57,5 @@ function square(number) {
 }
 
 console.log(square(0));  
+
+console.log(square(0));  
